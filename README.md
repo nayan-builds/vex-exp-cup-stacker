@@ -1,5 +1,9 @@
 # VEX EXP Cup Stacker
 
+<p align="center">
+  <img src="https://github.com/nayan-builds/vex-exp-cup-stacker/blob/main/robot.jpg?raw=true" alt="Cup Stacker Robot" width="300"/>
+</p>
+
 ## Setup Instructions
 
 ### Code Setup
