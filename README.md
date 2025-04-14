@@ -7,7 +7,7 @@
 ## Setup Instructions
 
 ### Code Setup
-The code is entirely run on the VEX EXP brain and **should already be downloaded**. To run this, you should navigate to `Programs` on the VEX EXP brain and selected `Cup Stacker` then simply select `Run`.
+The code is entirely run on the VEX EXP brain and **should already be downloaded**. To run this, you should navigate to `Programs` on the VEX EXP brain and select `Cup Stacker` then simply select `Run`.
 If the code is not already downloaded to the brain, go to [VEXCode EXP](https://codeexp.vex.com/) and open `Cup Stacker.exppython` found in this repository. Connect the robot to your computer with the USB cable, then select `BRAIN` at the top right of the page and click connect, following the prompts provided. Once connected to the brain, click `DOWNLOAD` in the top right to download the code to the brain.
 
 ### Physical Setup
