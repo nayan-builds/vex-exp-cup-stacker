@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtu.be/kOqF1xZrNFg?si=N4eJz6QVFsvf21_f">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch Demo Video" width="300">
+    <img src="https://github.com/nayan-builds/vex-exp-cup-stacker/blob/main/robot.jpg?raw=true" alt="Cup Stacker Robot" width="300"/>
   </a>
 </p>
 ## What it Does
