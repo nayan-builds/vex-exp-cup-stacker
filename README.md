@@ -4,7 +4,7 @@
   <img src="https://github.com/nayan-builds/vex-exp-cup-stacker/blob/main/robot.jpg?raw=true" alt="Cup Stacker Robot" width="300"/>
 </p>
 
-## What it does
+## What it Does
 
 The robot takes 6 cups and build a stack with 3 layers (3 on the bottom, 2 middle, 1 on top).
 
