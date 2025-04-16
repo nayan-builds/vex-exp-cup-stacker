@@ -1,14 +1,10 @@
 # VEX EXP Cup Stacker
 
 <p align="center">
-  <img src="https://github.com/nayan-builds/vex-exp-cup-stacker/blob/main/robot.jpg?raw=true" alt="Cup Stacker Robot" width="300"/>
+  <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/kOqF1xZrNFg)">
+    <img src="https://github.com/nayan-builds/vex-exp-cup-stacker/blob/main/robot.jpg?raw=true" alt="Watch Demo Video" width="300">
+  </a>
 </p>
-
-## Demo Video
-
-### Watch the Robot in Action
-
-[Watch Demo Video](https://github.com/nayan-builds/vex-exp-cup-stacker/blob/main/demo.mp4)
 
 ## What it Does
 
