@@ -1,10 +1,15 @@
 # VEX EXP Cup Stacker
 
+### Watch the Robot in Action
+
 <p align="center">
-  <a href="https://youtu.be/kOqF1xZrNFg?si=N4eJz6QVFsvf21_f">
+  <a href="https://youtu.be/kOqF1xZrNFg?si=N4eJz6QVFsvf21_f" target="_blank">
     <img src="https://github.com/nayan-builds/vex-exp-cup-stacker/blob/main/robot.jpg?raw=true" alt="Cup Stacker Robot" width="300"/>
   </a>
 </p>
+*Click the image to watch the demo video on YouTube.*
+
+
 ## What it Does
 
 The robot takes 6 cups and build a stack with 3 layers (3 on the bottom, 2 middle, 1 on top).
