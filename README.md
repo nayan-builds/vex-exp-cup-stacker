@@ -2,13 +2,12 @@
 
 ### Watch the Robot in Action
 
+[Watch on Youtube](https://youtu.be/kOqF1xZrNFg?si=N4eJz6QVFsvf21_f)
 <p align="center">
   <a href="https://youtu.be/kOqF1xZrNFg?si=N4eJz6QVFsvf21_f" target="_blank">
     <img src="https://github.com/nayan-builds/vex-exp-cup-stacker/blob/main/robot.jpg?raw=true" alt="Cup Stacker Robot" width="300"/>
   </a>
 </p>
-*Click the image to watch the demo video on YouTube.*
-
 
 ## What it Does
 
