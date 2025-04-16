@@ -4,6 +4,19 @@
   <img src="https://github.com/nayan-builds/vex-exp-cup-stacker/blob/main/robot.jpg?raw=true" alt="Cup Stacker Robot" width="300"/>
 </p>
 
+## What it does
+
+The robot takes 6 cups and build a stack with 3 layers (3 on the bottom, 2 middle, 1 on top).
+
+## Features of the Robot
+
+- 4 omni-directional wheels for straight movements in orthogonal directions.
+- Arm with claw attached.
+- Distance sensor on the claw.
+- Distance sensor on the base.
+- Elastic band for extra tension force to help lift the arm.
+- Brain positioned at the back to help balance out the weight of the arm.
+
 ## Setup Instructions
 
 ### Code Setup
